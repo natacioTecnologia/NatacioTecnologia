@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Me chamo Natácio , seja bem vindo(a) ao meu perfil! 
 
-- 🔭 Hoje atuo como Desenvolvedor na Condomob 
-- 🌱 Atualmente Estudando Java, Vue e arquitetura de software.
+- 🔭 Hoje atuo como Desenvolvedor Java 
+- 🌱 . Sou entusiasta da tecnologia e gosto de desenvolver projetos de automação IoT utilizando ESP32 e Arduino, programando em C/C++.
 - 😄 Pronomes: Ele/Dele
 
  <div>
